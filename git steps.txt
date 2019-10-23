@@ -1,0 +1,7 @@
+git fetch --all -v --->fetching all branches
+git checkout development
+git pull origin development-->latest
+
+git checkout -b "Branchname" --->creating branch
+git branchgit checkout
+git checkout "branchname" 
